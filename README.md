@@ -1,1 +1,1 @@
-# sql-internship
+# MYSQL-INTERNSHIP
